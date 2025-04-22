@@ -49,7 +49,7 @@ This project focuses on classifying iris flowers into three species — *Setosa*
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/iris-flower-classification.git
+   git clone https://github.com/kittumishra7310/iris-flower-classification.git
    cd iris-flower-classification
 2.Create and activate virtual environment
   python -m venv venv
